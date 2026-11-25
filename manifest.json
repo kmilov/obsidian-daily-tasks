@@ -1,0 +1,9 @@
+{
+  "id": "daily-tasks-carryover",
+  "name": "Daily Tasks Carryover",
+  "version": "0.1.0",
+  "minAppVersion": "1.12.7",
+  "description": "Carry yesterday's open tasks into today's daily note and sync completed checkboxes back to earlier daily notes.",
+  "author": "Camilo",
+  "isDesktopOnly": false
+}
